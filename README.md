@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 Hi Traveller, I am  Rajib Khan🤚✋🖐
 
 What I do? 👨‍💻
-
 -Full Stack Developer 🍥
 -Community Influencer 👁️‍🗨️
 -Opensource Contributor 📝
